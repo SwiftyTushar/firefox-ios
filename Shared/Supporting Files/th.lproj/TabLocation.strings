@@ -1,4 +1,10 @@
 /* Accessibility label for the security icon in url bar */
+"TabLocation.ETP.Off.NotSecure.A11y.Label.v119" = "การเชื่อมต่อไม่ปลอดภัย การป้องกันการติดตามแบบพิเศษถูกปิดแล้ว";
+
+/* Accessibility label for the security icon in url bar */
+"TabLocation.ETP.Off.Secure.A11y.Label.v119" = "การเชื่อมต่อปลอดภัย การป้องกันการติดตามแบบพิเศษถูกปิดแล้ว";
+
+/* Accessibility label for the security icon in url bar */
 "TabLocation.ETP.On.NotSecure.A11y.Label.v119" = "การเชื่อมต่อไม่ปลอดภัย";
 
 /* Accessibility label for the security icon in url bar */
