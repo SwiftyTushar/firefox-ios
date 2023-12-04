@@ -79,11 +79,17 @@
 /* Title for info card when the product is in analysis mode */
 "Shopping.InfoCard.ProgressAnalysis.Title.v120" = "Kontrollerer kvaliteten på vurderingen";
 
+/* This description appears beneath the confirmation title on the information card to inform the user that their report regarding the product stock status has been received and is being processed. It serves to set the expectation that the review information will be updated within 24 hours and invites the user to revisit the product page for updates. */
+"Shopping.InfoCard.ReportSubmittedByCurrentUser.Description.v121" = "Vi bør ha informasjon om dette produktets anmeldelser innen 24 timer. Sjekk igjen senere.";
+
+/* This title is displayed on the information card as a confirmation message after a user reports that a previously out-of-stock product is now available. It's meant to acknowledge the user's contribution and encourage community engagement by letting them know their report has been successfully submitted. */
+"Shopping.InfoCard.ReportSubmittedByCurrentUser.Title.v121" = "Takk for rapporteringen!";
+
 /* Text for the analyzer button displayed when an analysis can be updated for a product. */
 "Shopping.NoAnalysisCard.AnalyzerButton.Title.v120" = "Kontrollerer kvaliteten på vurderingen";
 
 /* Text for the body label, to check the reliability of a product. */
-"Shopping.NoAnalysisCard.BodyLabel.Title.v120" = "For å vite om dette produktets anmeldelser er pålitelige, sjekk kvaliteten på anmeldelsen. Det tar bare cirka 60 sekunder.";
+"Shopping.NoAnalysisCard.BodyLabel.Title.v120" = "For å vite om dette produktets vurderinger er pålitelige, sjekk kvaliteten på vurderingen. Det tar bare omtrent 60 sekunder.";
 
 /* Title for card displayed when a shopping product has not been analysed yet. */
 "Shopping.NoAnalysisCard.HeadlineLabel.Title.v120" = "Ingen informasjon om disse vurderingene ennå";
@@ -158,13 +164,13 @@
 "Shopping.ReviewQualityCard.MixedReviews.Label.v120" = "Vi tror det er en blanding av pålitelige og upålitelige vurderinger";
 
 /* Reliable reviews label from How we determine review quality card displayed in the shopping review quality bottom sheet. */
-"Shopping.ReviewQualityCard.ReliableReviews.Label.v120" = "Pålitelige vurderinger. Vi tror at vurderingene sannsynligvis kommer fra ekte kunder som har gitt ærlige, objektive anmeldelser.";
+"Shopping.ReviewQualityCard.ReliableReviews.Label.v120" = "Pålitelige vurderinger. Vi tror at vurderingene sannsynligvis kommer fra ekte kunder som har gitt ærlige, objektive vurderinger.";
 
 /* Label of the sub headline from How we determine review quality card displayed in the shopping review quality bottom sheet. The *text inside asterisks* denotes part of the string to bold, please leave the text inside the '*' so that it is bolded correctly. */
 "Shopping.ReviewQualityCard.SubHeadline.Label.v120" = "Vi tildeler hvert produkts vurderinger en *bokstavkarakter* fra A til F.";
 
 /* Unreliable reviews label from How we determine review quality card displayed in the shopping review quality bottom sheet. */
-"Shopping.ReviewQualityCard.UnreliableReviews.Label.v120" = "Upålitelige vurderinger. Vi mener vurderingene sannsynligvis er falske eller fra partiske anmeldere.";
+"Shopping.ReviewQualityCard.UnreliableReviews.Label.v120" = "Upålitelige vurderinger. Vi mener vurderingene sannsynligvis er falske eller fra partiske vurderere.";
 
 /* Accessibility label for the up chevron icon used to collapse or minimize the Settings Card within the shopping product review bottom sheet. */
 "Shopping.SettingsCard.Collapse.AccessibilityLabel.v120" = "Skjul «Innstillinger»-kortet";
