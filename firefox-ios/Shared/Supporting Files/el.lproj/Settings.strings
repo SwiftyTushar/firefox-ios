@@ -64,6 +64,12 @@
 /* Label used as an item in Settings screen. When touched, it will take user to address autofill settings page to that will allow user to add or modify saved addresses to allow for autofill in a webpage. */
 "Settings.AddressAutofill.Title.v126" = "Διευθύνσεις";
 
+/* Section description in Appearance settings for middle button configuration of the bottom toolbar. */
+"Settings.Appearance.NavigationToolbar.Description.v145" = "Αλλάζει το κουμπί στο κέντρο της γραμμής εργαλείων.";
+
+/* Section header title in Appearance settings that configures the middle button of the bottom toolbar. */
+"Settings.Appearance.NavigationToolbar.SectionHeader.v145" = "Κουμπί γραμμής εργαλείων";
+
 /* Default section header title under page zoom settings. Indicates the default value for all websites */
 "Settings.Appearance.Zoom.Default.Title.v140" = "Προεπιλογή";
 
@@ -257,11 +263,17 @@
 "Settings.TechnicalData.Link.v136" = "Μάθετε περισσότερα";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %@ is the app name (e.g. Firefox). */
-"Settings.TechnicalData.Message.v136" = "Τα δεδομένα της συσκευής, των ρυθμίσεων υλικού και της χρήσης σας, μάς βοηθούν να βελτιώσουμε τις λειτουργίες, τις επιδόσεις και τη σταθερότητα του %@.";
+"Settings.TechnicalData.Message.v136" = "Τα δεδομένα σχετικά με τη συσκευή σας, τη διαμόρφωση του υλικού της και τη χρήση συμβάλλουν στη βελτίωση των λειτουργιών, των επιδόσεων και της σταθερότητας του %@.";
 
 /* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
 "Settings.TechnicalData.Title.v136" = "Αποστολή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης";
 
 /* Terms of Use settings section title */
 "Settings.TermsOfUse.Title.v137" = "Όροι χρήσης";
+
+/* In the Appearance settings menu, in the Toolbar Button section, this label indicates that selecting this will make the home button appear in the middle of the navigation toolbar. */
+"Settings.Toolbar.Navigation.MiddleButton.Home.v145" = "Αρχική σελίδα";
+
+/* In the Appearance settings menu, in the Toolbar Button section, this label indicates that selecting this will make the New Tab button appear in the middle of the navigation toolbar. */
+"Settings.Toolbar.Navigation.MiddleButton.NewTab.v145" = "Νέα καρτέλα";
 
