@@ -49,6 +49,9 @@
 /* String used to describe the title of the theme customization onboarding page in our Onboarding screens. */
 "Onboarding.Customization.Theme.Title.v123" = "ഒരു അലങ്കാരം തിരഞ്ഞെടുക്കുക";
 
+/* String used to describe the title of the theme customization onboarding page in our Onboarding screens. */
+"Onboarding.Customization.Theme.Title.v143" = "അലങ്കാരം തിരഞ്ഞെടുക്കുക";
+
 /* On the toolbar customization onboarding card, the string used to describe the option to set the toolbar at the bottom of the screen. */
 "Onboarding.Customization.Toolbar.Bottom.Action.v123" = "കീഴ്ഭാഗം";
 
@@ -222,6 +225,9 @@
 
 /* Description for the wallpaper onboarding page in our Onboarding screens. This describes to the user that they can set a wallpaper. */
 "Onboarding.Wallpaper.Action.v114" = "ചുവർകടലാസു് ഇടുക";
+
+/* Description for the wallpaper onboarding modal displayed on top of the homepage. This describes to the user that they can choose different wallpapers. */
+"Onboarding.Wallpaper.Description.v114" = "താങ്ങൾക്കു കൊള്ളാവുന്നയൊരു ചുവൎക്കടലാസ്സു തിരഞ്ഞെടുക്കുക.";
 
 /* Title for the wallpaper onboarding modal displayed on top of the homepage. This describes to the user that they can choose different wallpapers. */
 "Onboarding.Wallpaper.SelectorTitle.v114" = "നിറത്തിന്റെ നീർത്തെറിപ്പ് ഉരച്ചുനോക്കുക";

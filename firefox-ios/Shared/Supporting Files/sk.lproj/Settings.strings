@@ -64,6 +64,12 @@
 /* Label used as an item in Settings screen. When touched, it will take user to address autofill settings page to that will allow user to add or modify saved addresses to allow for autofill in a webpage. */
 "Settings.AddressAutofill.Title.v126" = "Adresy";
 
+/* Section description in Appearance settings for middle button configuration of the bottom toolbar. */
+"Settings.Appearance.NavigationToolbar.Description.v145" = "Zmení tlačidlo v strede panela s nástrojmi.";
+
+/* Section header title in Appearance settings that configures the middle button of the bottom toolbar. */
+"Settings.Appearance.NavigationToolbar.SectionHeader.v145" = "Tlačidlo na paneli s nástrojmi";
+
 /* Default section header title under page zoom settings. Indicates the default value for all websites */
 "Settings.Appearance.Zoom.Default.Title.v140" = "Predvolené";
 
@@ -170,7 +176,7 @@
 "Settings.ScrollToHideTabAndAddressBar.Title.v138" = "Karty a panel s adresou skrývať rolovaním";
 
 /* Accessibility label for default search engine setting. */
-"Settings.Search.Accessibility.DefaultSearchEngine.v121" = "Predvolený vyhľadávací modul";
+"Settings.Search.Accessibility.DefaultSearchEngine.v121" = "Predvolený vyhľadávač";
 
 /* Accessibility label for Learn more about Firefox Suggest. */
 "Settings.Search.Accessibility.LearnAboutSuggestions.v124" = "Ďalšie informácie o Návrhoch Firefoxu";
@@ -179,7 +185,7 @@
 "Settings.Search.AlternateSearchEngines.Title.v124.v2" = "Alternatívne vyhľadávače";
 
 /* Title for the `default search engine` settings section in the Search page in the Settings menu. */
-"Settings.Search.DefaultSearchEngine.Title.v121" = "Predvolený vyhľadávací modul";
+"Settings.Search.DefaultSearchEngine.Title.v121" = "Predvolený vyhľadávač";
 
 /* Title for the `Suggestions from Search Engines` settings section in the Search page in the Settings menu. */
 "Settings.Search.EnginesSuggestions.Title.v124" = "Návrhy z vyhľadávačov";
@@ -264,4 +270,10 @@
 
 /* Terms of Use settings section title */
 "Settings.TermsOfUse.Title.v137" = "Podmienky používania";
+
+/* In the Appearance settings menu, in the Toolbar Button section, this label indicates that selecting this will make the home button appear in the middle of the navigation toolbar. */
+"Settings.Toolbar.Navigation.MiddleButton.Home.v145" = "Domov";
+
+/* In the Appearance settings menu, in the Toolbar Button section, this label indicates that selecting this will make the New Tab button appear in the middle of the navigation toolbar. */
+"Settings.Toolbar.Navigation.MiddleButton.NewTab.v145" = "Nová karta";
 

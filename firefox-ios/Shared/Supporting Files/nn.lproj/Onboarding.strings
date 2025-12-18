@@ -56,7 +56,7 @@
 "Onboarding.Customization.Toolbar.Bottom.Action.v123" = "Botn";
 
 /* String used to describe the option to save set preferences and leave onboarding to start browsing in the app. */
-"Onboarding.Customization.Toolbar.Continue.Action.v123" = "Lagre og byrje å surfe";
+"Onboarding.Customization.Toolbar.Continue.Action.v123" = "Lagre og begynn å surfe";
 
 /* String used to describe the description label of the toolbar customization onboarding page in our Onboarding screens. */
 "Onboarding.Customization.Toolbar.Description.v123" = "Hald søk innan rekkjevidde.";
